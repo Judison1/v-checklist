@@ -1,4 +1,4 @@
-# v-checklist
+# Exemplo de checklist to-do com Vue+PouchDB+VueBootstrap
 
 ## Project setup
 ```
